@@ -15,4 +15,5 @@ code {
 body{
   background-color: aquamarine;
   padding: auto;
+  border-style: dashed;
 }
